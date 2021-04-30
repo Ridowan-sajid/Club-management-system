@@ -1,0 +1,70 @@
+Izaz
+20-44060-2
+Department Name: CSE
+Joining Date: 2/12/2020 
+1
+Sadman
+20-44048-2
+Department Name: CSE
+Joining Date: 23/12/2020
+1
+Km
+20-44048-2
+Department Name: CSE
+Joining Date: 16/12/2020
+2
+Akib
+20-44048-2
+Department Name: CSE
+Joining Date: 16/12/2020
+2
+Sajid
+20-44049-2
+Department Name: CSE
+Joining Date: 17/12/2020
+4
+Ridowan
+20-44049-2
+Department Name: CSE
+Joining Date: 19/12/2020
+3
+Sajid
+20-44049-2
+Department Name: CSE
+Joining Date: 20/12/2020
+2
+Pial
+30-55059-3
+Department Name: Civil
+Joining Date: 20/12/2020
+5
+Riyad
+20-66069-2
+Department Name: CSE
+Joining Date: 25/12/2020
+10
+Tamim
+40-55059-4
+Department Name: Civil
+Joining Date: 26/12/2020
+7
+Ashiqul
+20-44043-2
+Department Name: CSE
+Joining Date: 28/12/2020
+9
+Neon
+20-44043-2
+Department Name: CS
+Joining Date: 29/12/2020
+9
+Fahim
+50-55058-5
+Department Name: EE
+Joining Date: 31/12/2020
+11
+Rakib
+60-66068-6
+Department Name: EE
+Joining Date: 31/12/2020
+11
